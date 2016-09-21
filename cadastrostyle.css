@@ -21,8 +21,8 @@ h1{
 	text-align: left;
 }
 
-}
 label{
-	font-family: 'Inconsolata', monospace;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;	
+	color: #7f8c8d;
 }
